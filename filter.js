@@ -11,7 +11,3 @@ const nums = [1,2,3,4,5];
 
 
 
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Likhon-25/Module-27.git
-git push -u origin main
